@@ -20,3 +20,5 @@ namespace BasicContactList
         }
     }
 }
+
+//<ItemGroup> </ItemGroup>
